@@ -15,4 +15,4 @@
 - All the screens wih respect to Mobile ( ios and android ) and tablet ( ios and android ) 
 - Lint all files in codebase are fotamtted eslint. For proper codebase.
 - Designs screen shorts attached in MR 
-  
+   
