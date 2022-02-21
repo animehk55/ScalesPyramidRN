@@ -20,7 +20,7 @@
 
   Pyramid Scale Screen code is in Screen/PyramidScaleBranch https://github.com/animehk55/ScalesPyramidRN/pull/3
 
- *Drive Link for screenshort and iamges* : https://drive.google.com/drive/folders/1XQIyJZ6TCiqEVpl4yYDNs4yEWNodghpX?usp=sharing
+ *Drive Link for screenshort and images* : https://drive.google.com/drive/folders/1XQIyJZ6TCiqEVpl4yYDNs4yEWNodghpX?usp=sharing
 
 - Scales Meter Screen code and Pyramid Scale Screen code is in "main" Branch : https://github.com/animehk55/ScalesPyramidRN
 
